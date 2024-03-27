@@ -1,5 +1,7 @@
 
-// Program created by: Oliver
+/*
+ * Created by: Oliver
+ */
 
 // Imports
 import java.awt.event.ActionEvent;

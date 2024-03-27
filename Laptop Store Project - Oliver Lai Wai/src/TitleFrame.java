@@ -2,11 +2,8 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-/*
- * Group: William, Yaseen, Oliver 
- * In charge of title: William
- * Date: May 9, 2022
- * Description: This class is the titke frame
+/* 
+ * In charge of title: name
  */
 
 @SuppressWarnings("serial")
@@ -88,14 +85,14 @@ import javax.swing.*;
 				educationFrame.setVisible(true);// goes to the education screen
 				
 			}
-			else if (event.getSource() == surveyButton) {
-				// shows the survey screen and hide the title screen
-				setVisible(false);
-//				SurveyFrame surveyFrame = new SurveyFrame();
-//				surveyFrame.setVisible(true);
-//				This part is Thomas's work
-				
-			}	
+//			else if (event.getSource() == surveyButton) {
+//				// shows the survey screen and hide the title screen
+//				setVisible(false);
+////				SurveyFrame surveyFrame = new SurveyFrame();
+////				surveyFrame.setVisible(true);
+////				This part is Thomas's work
+//				
+//			}	
 
 		
 	}
